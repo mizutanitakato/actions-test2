@@ -20,4 +20,4 @@ jobs:
           username: ${{ secrets.FTP_USER }} # FTPアカウント名
           password: ${{ secrets.FTP_PASSWORD }} # FTPアカウントのパスワード
           local-dir: ./
-          server-dir: /mizutani999.xsrv.jp/public_html/
+          server-dir: /mizutani999.xsrv.jp/public_html/mizutani/wp-content/themes/twentytwentyone/
